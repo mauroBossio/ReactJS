@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.cart {
+  height: 28px;
+  margin-top: 25px;
+}
+
+.blockCart {
+  position: relative;
+  bottom: 10px;
+}
+
+.greeting {
+  padding: 20px;
+}
+
