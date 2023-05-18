@@ -1,0 +1,46 @@
+ [
+      {
+        "id": 1,
+        "img":"../assets/Tienda-online-7.png",
+        "name": "Campera de algodón",
+        "description": "Campera 100% algodón con apliques, tejido a punto para niña talle 4",
+        "price":"$5000"
+      },
+      {
+        "id": 3,
+        "img":"../assets/Tienda-online-3.png",
+        "name": "Campera de algodón",
+        "description": "Campera de nena 100% algodon, color celeste con apliques talle 6",
+        "price":"$5500"
+      },
+      {
+        "id": 4,
+        "img":"../assets/Tienda-online-6.png",
+        "name": "Busito de algodón",
+        "description": "Campera 100% algodón con apliques, tejido a punto para niña talle 2",
+        "price":"$5500"
+      },
+      {
+        "id": 5,
+        "img":"../assets/Tienda-online-1.png",
+        "name": "Busito de algodón",
+        "description": "Busito de nena 100% algodon, color celeste con apliques talle 4",
+        "price":"$5000"
+      },
+      {
+        "id": 6,
+        "img":"../assets/Tienda-online-2.png",
+        "name": "Busito de algodón",
+        "description": "Campera 100% algodón  con apliques, Morley para niña talle 4",
+        "price":"$5500"
+      },
+      {
+        "id": 7,
+        "img":"../assets/Tienda-online-4.png",
+        "name": "Busito de algodón",
+        "description": "Busito de nene 100% algodon, color azul con apliques talle 4",
+        "price":"$5500"
+      }
+    ]
+
+  

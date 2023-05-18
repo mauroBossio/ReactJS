@@ -11,3 +11,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  text-align: center;
+}
+
+.cart {
+  height: 28px;
+  margin-top: 25px;
+}
+
+.blockCart {
+  position: relative;
+  bottom: 10px;
+  background-color: none;
+}
+
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+.greeting {
+  padding: 20px;
+}
+
+.card-description {
+  min-height: 100px;
+}
+
+.card-columns {
+  margin: 1rem;;
+}
+
+@media screen and (max-width: 767px) {
+  .card-columns {
+    column-count: 1;
+  }
+}

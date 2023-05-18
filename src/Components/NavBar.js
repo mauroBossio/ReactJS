@@ -3,12 +3,15 @@ import NavBarBootstrap from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import { Link } from "react-router-dom";
 
 const NavBar = () => {
     return (
         <NavBarBootstrap collapseOnSelect expand="lg" bg="info" variant="danger">
             <Container>
+                <Link className="link" to="/">
                 <NavBarBootstrap.Brand href="" className="Title">Meti Tejidos</NavBarBootstrap.Brand>
+                </Link>
                 <NavBarBootstrap.Toggle aria-controls="responsive-navbar-nav" />
                 <NavBarBootstrap.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
