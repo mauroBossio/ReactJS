@@ -26,8 +26,8 @@ const NavBar = () => {
                             <NavDropdown.Item href="#action/3.4"> Mostrar todas </NavDropdown.Item>
                         </NavDropdown>
                     </Nav>
-                    <Nav>
-                        <Nav.Link href="#deets"><CartWidget /></Nav.Link>
+                    <Nav href="#deets">
+                        <CartWidget />
                     </Nav>
                 </NavBarBootstrap.Collapse>
             </Container>
